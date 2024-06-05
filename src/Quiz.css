@@ -1,0 +1,33 @@
+.quiz {
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  max-width: 600px;
+}
+
+.quiz h2 {
+  margin-bottom: 10px;
+}
+
+.quiz p {
+  margin-bottom: 20px;
+}
+
+.quiz button {
+  background-color: #fff;
+  color: #222;
+  font-weight: 500;
+  width: 100%;
+  border: 1px solid black;
+  padding: 10px;
+  margin: 10px 0;
+  text-align: center;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.quiz button:hover {
+  background-color: #09e05b;
+}
